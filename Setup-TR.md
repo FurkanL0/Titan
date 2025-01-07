@@ -19,3 +19,22 @@ sudo apt update -y && sudo apt upgrade -y
 ```bash
 sudo apt install htop ca-certificates zlib1g-dev libncurses5-dev libgdbm-dev libnss3-dev tmux iptables curl nvme-cli git wget make jq libleveldb-dev build-essential pkg-config ncdu tar clang bsdmainutils lsb-release libssl-dev libreadline-dev libffi-dev jq gcc screen unzip lz4 -y
 ```
+
+## 3. Snapd İndirelim : 
+
+```bash
+sudo apt install snapd
+```
+
+## 4. Kurulumdan sonra Snap'i etkinleştirelim : 
+
+```bash
+sudo systemctl enable --now snapd.socket
+```
+
+## 5. MultiPass İndirelim : 
+
+```bash
+sudo snap install multipass
+```
+
