@@ -64,7 +64,30 @@ unzip agent-linux.zip -d /opt/titanagent
 
 ```bash
 screen -S titan
+
+```
+## 8. Dizine Girelim : 
+
+```bash
+cd /opt/titanagent
 ```
 
+## 9 . Titan Keyimizi Alalım : 
+
+- Link : https://test4.titannet.io/ - Keplr İle Giriş yapıyoruz. Node Management Kısmından keyimizi alıyoruz.
+
+![resim](https://github.com/user-attachments/assets/1e2864ef-ba38-43a1-800d-37093b3b5f73)
+
+## 10. Başlatalım : 
+
+- <yourkey> kısmına aldığınız keyi koyup son halini yapıştırıp çalıştırın.
+
+```bash
+./agent --working-dir=/opt/titanagent --server-url=https://test4-api.titannet.io --key=<your-key>
+```
+
+- CTRL A + D ile screeenden çıkabilirsiniz.
+
+## Main Rehber / Source : https://titannet.gitbook.io/titan-network-en/galileo-testnet/node-participation-guide
 
 
