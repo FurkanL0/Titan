@@ -60,3 +60,11 @@ mkdir -p /opt/titanagent
 unzip agent-linux.zip -d /opt/titanagent
 ```
 
+## 7. Screen Açalım : 
+
+```bash
+screen -S titan
+```
+
+
+
