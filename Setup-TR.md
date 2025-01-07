@@ -38,3 +38,15 @@ sudo systemctl enable --now snapd.socket
 sudo snap install multipass
 ```
 
+## 6. MultiPass indirmemizi Doğrulayalım : 
+
+```bash
+multipass --version
+```
+
+- Size versiyon numarasını gösterecek.
+
+
+```bash
+sudo snap install multipass
+```
