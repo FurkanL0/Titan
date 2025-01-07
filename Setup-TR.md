@@ -47,6 +47,3 @@ multipass --version
 - Size versiyon numarasını gösterecek.
 
 
-```bash
-sudo snap install multipass
-```
