@@ -46,4 +46,17 @@ multipass --version
 
 - Size versiyon numarasını gösterecek.
 
+## 7. Dosyaları İndirelim : 
+
+```bash
+wget https://pcdn.titannet.io/test4/bin/agent-linux.zip
+```
+
+```bash
+mkdir -p /opt/titanagent
+```
+
+```bash
+unzip agent-linux.zip -d /opt/titanagent
+```
 
