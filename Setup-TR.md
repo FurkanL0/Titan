@@ -80,7 +80,7 @@ cd /opt/titanagent
 
 ## 10. Başlatalım : 
 
-- <yourkey> kısmına aldığınız keyi koyup son halini yapıştırıp çalıştırın.
+- your-key kısmına aldığınız keyi koyup son halini yapıştırıp çalıştırın. <> kısmını kaldırın.
 
 ```bash
 ./agent --working-dir=/opt/titanagent --server-url=https://test4-api.titannet.io --key=<your-key>
