@@ -9,6 +9,11 @@
 | 2c VPU   | 2G RAM  | 50G SSD + | 10Mbps +     | TCP1, 2, 3 UDP1, 2, 3 |
 
 
+#### Now only TNT4 active on China - we buy Hong Kong location server on PQ Hosting ; 
+
+- Sing Up Link : https://pq.hosting/?from=627713
+
+
 #### Run the following command to update and upgrade system packages:
 
 ```bash
