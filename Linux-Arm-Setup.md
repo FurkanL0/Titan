@@ -40,3 +40,33 @@ mkdir -p /opt/titanagent
 ```bash
 unzip agent-linux.zip -d /opt/titanagent
 ```
+
+## 4. Open Screen : 
+
+```bash
+screen -S titan
+
+```
+## 5. Enter File : 
+
+```bash
+cd /opt/titanagent
+```
+
+## 6 . Let's get our Titan Key : 
+
+- Link : https://test4.titannet.io/ - We are logging in with Keplr. We get our key from the Node Management Section.
+
+![resim](https://github.com/user-attachments/assets/1e2864ef-ba38-43a1-800d-37093b3b5f73)
+
+## 7. Let's launch : 
+
+- put your key in your-key and paste the final version and run it. remove the <>.
+
+```bash
+./agent --working-dir=/opt/titanagent --server-url=https://test4-api.titannet.io --key=<your-key>
+```
+
+- You can exit the screeen with CTRL A + D.
+
+## Main Guide / Source : https://titannet.gitbook.io/titan-network-en/galileo-testnet/node-participation-guide
