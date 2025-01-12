@@ -14,6 +14,11 @@
 grep --color vmx|svm /proc/cpuinfo
 ```
 
+- SVM Desteği : 
+```bash
+lscpu | grep -i virtualization
+```
+
 #### Sistem paketlerini güncellemek ve yükseltmek için aşağıdaki komutu çalıştırın:
 
 ```bash
