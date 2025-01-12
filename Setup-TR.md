@@ -8,6 +8,11 @@
 |----------|---------|-----------|--------------|--------------------|
 | 2c VPU   | 2G RAM  | 50G SSD + | 10Mbps +     | TCP1, 2, 3 UDP1, 2, 3 |
 
+#### Sanallaştırma Desteği Kontrol : 
+
+```bash
+grep --color vmx|svm /proc/cpuinfo
+```
 
 #### Sistem paketlerini güncellemek ve yükseltmek için aşağıdaki komutu çalıştırın:
 
