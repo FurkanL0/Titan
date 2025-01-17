@@ -88,3 +88,8 @@ cd /opt/titanagent
 
 [Guide de Participation au Nœud Titan Galileo](https://titannet.gitbook.io/titan-network-en/galileo-testnet/node-participation-guide)
 
+
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=FurkanL0&style=flat-square&color=brightgreen&label=Profile+Views+/+Repo+Views+" alt="Repo / Profile Views" />
+</p>
