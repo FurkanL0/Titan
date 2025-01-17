@@ -70,3 +70,7 @@ cd /opt/titanagent
 - Sie können den Screen mit CTRL A + D verlassen.
 
 ## Hauptleitfaden / Quelle: https://titannet.gitbook.io/titan-network-en/galileo-testnet/node-participation-guide
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=FurkanL0&style=flat-square&color=brightgreen&label=Profile+Views+/+Repo+Views+" alt="Repo / Profile Views" />
+</p>
